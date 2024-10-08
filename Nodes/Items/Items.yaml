@@ -1,0 +1,16 @@
+Name: Items
+Type: FolderType
+Children:
+- Name: S7TIAPROFINETDriver1
+  Type: ObjectLibraryItem
+  Description: {"LocaleId":"","Text":"Test Upload S7 Profinet Communication"}
+  Children:
+  - Name: LibraryItemGuid
+    Type: BaseDataVariableType
+    DataType: Guid
+    Value: "d17f72f9711780d88e97472a14699bfe"
+  - Name: LibraryItemVersion
+    Type: BaseDataVariableType
+    DataType: UInt32
+    Value: 1
+  - File: S7TIAPROFINETDriver1/S7TIAPROFINETDriver1.yaml

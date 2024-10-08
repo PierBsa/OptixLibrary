@@ -1,0 +1,5 @@
+Name: S7TIAPROFINETDriver1
+Id: g=9894ecc39019d2ac8d3d1ee7d1cbcc28
+Supertype: S7TiaProfinetDriver
+Children:
+- File: S71200/S71200.yaml
